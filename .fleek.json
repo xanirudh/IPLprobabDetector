@@ -1,0 +1,6 @@
+{
+    "build": {
+      "command": "setup.sh && streamlit run app.py"
+      
+    }
+   }
