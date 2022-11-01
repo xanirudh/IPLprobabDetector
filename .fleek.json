@@ -1,6 +1,6 @@
 {
     "build": {
-      "command": "streamlit run app.py"
+      "command": "pip install streamlit && streamlit run app.py"
       
     }
    }
